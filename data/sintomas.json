@@ -1,0 +1,302 @@
+[
+  {
+    "nombre": "Dolor torácico intenso",
+    "riesgo": "alto",
+    "descripcion": "Dolor torácico intenso. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Dificultad para respirar",
+    "riesgo": "alto",
+    "descripcion": "Dificultad para respirar. Puede ser signo de una condición respiratoria severa como asma, EPOC o neumonía."
+  },
+  {
+    "nombre": "Convulsiones",
+    "riesgo": "alto",
+    "descripcion": "Convulsiones. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Hemorragia activa",
+    "riesgo": "alto",
+    "descripcion": "Hemorragia activa. Pérdida de sangre activa. Si no se detiene, requiere atención médica inmediata."
+  },
+  {
+    "nombre": "Pérdida de conciencia",
+    "riesgo": "alto",
+    "descripcion": "Pérdida de conciencia. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Cianosis",
+    "riesgo": "alto",
+    "descripcion": "Cianosis. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Trauma craneoencefálico",
+    "riesgo": "alto",
+    "descripcion": "Trauma craneoencefálico. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Parálisis súbita",
+    "riesgo": "alto",
+    "descripcion": "Parálisis súbita. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Quemaduras extensas",
+    "riesgo": "alto",
+    "descripcion": "Quemaduras extensas. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Shock evidente",
+    "riesgo": "alto",
+    "descripcion": "Shock evidente. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Respiración acelerada",
+    "riesgo": "alto",
+    "descripcion": "Respiración acelerada. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Uñas moradas",
+    "riesgo": "alto",
+    "descripcion": "Uñas moradas. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Lengua hinchada",
+    "riesgo": "alto",
+    "descripcion": "Lengua hinchada. Este síntoma está clasificado como de alto riesgo y podría requerir atención médica urgente."
+  },
+  {
+    "nombre": "Fiebre alta",
+    "riesgo": "moderado",
+    "descripcion": "Fiebre alta. Aumento de la temperatura corporal, puede ser signo de infección u otra enfermedad sistémica."
+  },
+  {
+    "nombre": "Dolor abdominal fuerte",
+    "riesgo": "moderado",
+    "descripcion": "Dolor abdominal fuerte. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Mareos persistentes",
+    "riesgo": "moderado",
+    "descripcion": "Mareos persistentes. Puede ser signo de baja presión, deshidratación o problemas neurológicos."
+  },
+  {
+    "nombre": "Vómitos intensos",
+    "riesgo": "moderado",
+    "descripcion": "Vómitos intensos. Puede deberse a una irritación respiratoria, infección o reacción alérgica."
+  },
+  {
+    "nombre": "Palpitaciones",
+    "riesgo": "moderado",
+    "descripcion": "Palpitaciones. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Dolor lumbar",
+    "riesgo": "moderado",
+    "descripcion": "Dolor lumbar. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Diarrea continua",
+    "riesgo": "moderado",
+    "descripcion": "Diarrea continua. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Dolor pélvico",
+    "riesgo": "moderado",
+    "descripcion": "Dolor pélvico. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Tos persistente",
+    "riesgo": "moderado",
+    "descripcion": "Tos persistente. Puede deberse a una irritación respiratoria, infección o reacción alérgica."
+  },
+  {
+    "nombre": "Debilidad general",
+    "riesgo": "moderado",
+    "descripcion": "Debilidad general. Fatiga física o mental que puede derivar de múltiples causas."
+  },
+  {
+    "nombre": "Dolor en el ojo",
+    "riesgo": "moderado",
+    "descripcion": "Dolor en el ojo. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Sensibilidad a la luz",
+    "riesgo": "moderado",
+    "descripcion": "Sensibilidad a la luz. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Dificultad para tragar",
+    "riesgo": "moderado",
+    "descripcion": "Dificultad para tragar. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Dolor de cuello",
+    "riesgo": "moderado",
+    "descripcion": "Dolor de cuello. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Inflamación en las piernas",
+    "riesgo": "moderado",
+    "descripcion": "Inflamación en las piernas. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Sangrado nasal",
+    "riesgo": "moderado",
+    "descripcion": "Sangrado nasal. Pérdida de sangre activa. Si no se detiene, requiere atención médica inmediata."
+  },
+  {
+    "nombre": "Pérdida del olfato",
+    "riesgo": "moderado",
+    "descripcion": "Pérdida del olfato. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Pérdida del gusto",
+    "riesgo": "moderado",
+    "descripcion": "Pérdida del gusto. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Sangrado de encías",
+    "riesgo": "moderado",
+    "descripcion": "Sangrado de encías. Pérdida de sangre activa. Si no se detiene, requiere atención médica inmediata."
+  },
+  {
+    "nombre": "Erupción con fiebre",
+    "riesgo": "moderado",
+    "descripcion": "Erupción con fiebre. Aumento de la temperatura corporal, puede ser signo de infección u otra enfermedad sistémica."
+  },
+  {
+    "nombre": "Piel pálida",
+    "riesgo": "moderado",
+    "descripcion": "Piel pálida. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Sudoración excesiva",
+    "riesgo": "moderado",
+    "descripcion": "Sudoración excesiva. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Hinchazón facial",
+    "riesgo": "moderado",
+    "descripcion": "Hinchazón facial. Requiere atención médica, aunque puede esperar según el contexto clínico."
+  },
+  {
+    "nombre": "Ronquera persistente",
+    "riesgo": "moderado",
+    "descripcion": "Ronquera persistente. Inflamación de la garganta, posiblemente causada por infección viral o bacteriana."
+  },
+  {
+    "nombre": "Dolor de garganta",
+    "riesgo": "leve",
+    "descripcion": "Dolor de garganta. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Tos leve",
+    "riesgo": "leve",
+    "descripcion": "Tos leve. Puede deberse a una irritación respiratoria, infección o reacción alérgica."
+  },
+  {
+    "nombre": "Congestión nasal",
+    "riesgo": "leve",
+    "descripcion": "Congestión nasal. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Dolor de cabeza leve",
+    "riesgo": "leve",
+    "descripcion": "Dolor de cabeza leve. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Dolor muscular",
+    "riesgo": "leve",
+    "descripcion": "Dolor muscular. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Dolor de oídos",
+    "riesgo": "leve",
+    "descripcion": "Dolor de oídos. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Estornudos",
+    "riesgo": "leve",
+    "descripcion": "Estornudos. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Náuseas leves",
+    "riesgo": "leve",
+    "descripcion": "Náuseas leves. Suele relacionarse a infecciones gastrointestinales o efectos secundarios de medicamentos."
+  },
+  {
+    "nombre": "Cansancio leve",
+    "riesgo": "leve",
+    "descripcion": "Cansancio leve. Fatiga física o mental que puede derivar de múltiples causas."
+  },
+  {
+    "nombre": "Dolor leve en extremidades",
+    "riesgo": "leve",
+    "descripcion": "Dolor leve en extremidades. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Ardor al orinar",
+    "riesgo": "leve",
+    "descripcion": "Ardor al orinar. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Picazón en la piel",
+    "riesgo": "leve",
+    "descripcion": "Picazón en la piel. Reacción cutánea que puede estar relacionada a alergias, infecciones o irritaciones."
+  },
+  {
+    "nombre": "Erupción leve",
+    "riesgo": "leve",
+    "descripcion": "Erupción leve. Reacción cutánea que puede estar relacionada a alergias, infecciones o irritaciones."
+  },
+  {
+    "nombre": "Dolor en articulaciones",
+    "riesgo": "leve",
+    "descripcion": "Dolor en articulaciones. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Sensación de opresión leve",
+    "riesgo": "leve",
+    "descripcion": "Sensación de opresión leve. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Sensación de frío",
+    "riesgo": "leve",
+    "descripcion": "Sensación de frío. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Irritación ocular",
+    "riesgo": "leve",
+    "descripcion": "Irritación ocular. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Dolor en la espalda leve",
+    "riesgo": "leve",
+    "descripcion": "Dolor en la espalda leve. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Inquietud leve",
+    "riesgo": "leve",
+    "descripcion": "Inquietud leve. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Infección urinaria leve",
+    "riesgo": "leve",
+    "descripcion": "Infección urinaria leve. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  },
+  {
+    "nombre": "Dolor en los senos paranasales",
+    "riesgo": "leve",
+    "descripcion": "Dolor en los senos paranasales. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Dolor en las encías",
+    "riesgo": "leve",
+    "descripcion": "Dolor en las encías. Puede estar asociado a inflamación, infección o daño estructural. Se recomienda evaluación clínica según intensidad y duración."
+  },
+  {
+    "nombre": "Zumbido en los oídos",
+    "riesgo": "leve",
+    "descripcion": "Zumbido en los oídos. Síntoma leve que puede manejarse con autocuidado, salvo que persista o empeore."
+  }
+]
